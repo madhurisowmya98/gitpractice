@@ -1,5 +1,6 @@
 package com.pr;
 
+@Table(name = "Employ")
 @Entity
 public class Employee {
 
