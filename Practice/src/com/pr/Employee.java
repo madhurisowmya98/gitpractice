@@ -1,7 +1,6 @@
 package com.pr;
 
 @Entity
-@Table
 public class Employee {
 
 	 String name;
